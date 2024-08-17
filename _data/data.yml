@@ -7,15 +7,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 
+    name: Martin Vladimirov
     tagline: 
     avatar: 
 
     # Sidebar links
-    email: 
-    phone: 
-    timezone: 
-    citizenship:
+    email: martinvladimirov95@gmail.com
+    phone: +31643489968
+    timezone: CET
+    citizenship: Bulgarian
     website: 
     linkedin: 
     xing: 
