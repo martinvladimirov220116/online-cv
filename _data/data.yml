@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Martin Vladimirov
     tagline: Student
-    avatar: 
+    avatar: pfp.png
 
     # Sidebar links
     email: martinvladimirov95@gmail.com
@@ -41,13 +41,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: 
           link:
 
-        - item: Snowboarding
+        - item: 
           link:
 
-        - item: Cooking
+        - item: 
           link:
           
 career-profile:
