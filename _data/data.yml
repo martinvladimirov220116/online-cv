@@ -68,22 +68,22 @@ projects:
     title: Projects
     assignments:
       - title: "PowerBI presentation on the future of ecofuels for air travel" 
-        link: "https://github.com/martinvladimirov220116/CV-links/blob/main/SDGIndicatorsDashboard_Martin Vladimirov.pbix"
+        link: 
         tagline: "The project consisted of creating a dynamic PowerBI dashboard, on a topic chosen from the SDG indicators. Using data, gathered from different scholarly sources, I was able to research and make predictions on the future developments of different fuels which can be used for passenger air travel. "
 
       - title: "Machine learning model for rating prediction based on Twitter engagement for Banijay Benelux"
-        link: "https://github.com/martinvladimirov220116/CV-links/blob/main/Machine learning model for rating prediction based on Twitterengagement.pdf"
+        link: 
         tagline: "The project consisted of creating a prediction model for the show OP1 , to see whether or not twitter engagement affected the show's ratings. Using python to merge the data provided by the company, Twitter API to scrape twitter data, PowerBI to make clear visualizations of the merged data and finally MS Word, to make the final report. "
 
       - title: "Wireframe prototype with image recognition model using Keras"
         tagline: "Created a wireframe prototype for a food recognition application, creating a proof of concept interface using an online platform and creating a functional image recognition model, using the Keras library in python. The model was a multiclass CNN with 1,6 million trainable parameters and transfer learning. "
 
       - title: "Traffic congestion easing project for Municipality of Breda"
-        link: "https://github.com/martinvladimirov220116/CV-links/blob/main/ProjectProposalParkingFinal.pdf"
+        link: 
         tagline: "For this project I was part of a group, using Scrum and an agile working environment, where I got to be scrum masterand divide team tasks accordingly. The project consisted of developing a proof of concept application for the municipality for bettering the city of Breda. The municipality provided us with multiple topics to choose from and we decided to delve into the congestion statistics. I was responsible for the data gathering, cleaning and exploratory data analysis, so that my other team members can have the necessary foundation to create a model which predicts congestion in the city center. Data was gathered from municipal websites as well as the municipality SQL server, which they provided."
 
       - title: "Integrating AI as a teaching instrument for the Facility Management program in BUAS "
-        link: "https://github.com/martinvladimirov220116/CV-links/blob/main/Research_Policy.pdf" 
+        link: 
         tagline: "This was a group project where I again had the opportunity to be a scrum master and divide tasks among my team. The core of the project consisted of conducting qualitative and quantitative research from different lectors and students, using interviews and surveys. This data was later processed using R due to its statistical advantages and was made into a report using LaTeX. Each team member had to write different parts of the report as we all chose a subdiscipline in the field to research. The findings were later presented in front of an audience of lectors from the different BUAS programs as well as students and colleagues."
         
       - title: "Image Recognition and Robotics Pipeline for NPEC"
@@ -93,10 +93,10 @@ projects:
         tagline: "This project is partly team oriented and partly individual. The project consists of gathering text and corresponding emotion data in order to train a model to recognize different emotions. Many different models were tested in order to find the best performing one, and the group came to the conclusion that a BERT model performed the best on multiclass emotion detection. A LaTeX report was written to document the results of this model."
         
       - title: "Cloud deployment of AI model using Microsoft Azure and Docker "
-        link: "https://pypi.org/project/emotion_detective/"
+        link: 
         tagline: "Project consisted of deployment of an AI emotion recognition model using Microsoft Azure. During the project my team and I worked in a scrum environment. MLOps practices were used in order to accomplish our task. The project also allowed me to learn about Docker containers and how to operate with them. The team and I also published our own python package, which can be installed on Windows and Linux"
 
-
+        "Further details can be provided on request"
 skills:
     title: Skills &amp; Proficiency
 
