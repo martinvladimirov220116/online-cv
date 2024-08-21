@@ -7,15 +7,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name:
+    name: Martin Vladimirov
     tagline: 
-    avatar: 
+    avatar: pfp.png
 
     # Sidebar links
-    email: 
-    phone: 
-    timezone: 
-    citizenship:
+    email: martinvladimirov95@gmail.com
+    phone: +31643489968
+    timezone: CET
+    citizenship: Bulgarian
     website: 
     linkedin: 
     xing: 
@@ -95,8 +95,6 @@ projects:
       - title: "Cloud deployment of AI model using Microsoft Azure and Docker "
         link: 
         tagline: "Project consisted of deployment of an AI emotion recognition model using Microsoft Azure. During the project my team and I worked in a scrum environment. MLOps practices were used in order to accomplish our task. The project also allowed me to learn about Docker containers and how to operate with them. The team and I also published our own python package, which can be installed on Windows and Linux"
-
-        "Further details can be provided on request"
 skills:
     title: Skills &amp; Proficiency
 
@@ -112,4 +110,4 @@ skills:
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Further details can be provided upon request
