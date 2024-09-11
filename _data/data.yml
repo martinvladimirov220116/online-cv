@@ -7,15 +7,15 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 
+    name: Мартин Владимиров
     tagline: 
     avatar: 
 
     # Sidebar links
-    email: 
-    phone: 
+    email: martinvladimirov95@gmail.com
+    телефон: +31643489968
     timezone: 
-    citizenship: 
+    гражданство: Българин
     website: 
     linkedin: 
     xing: 
@@ -29,14 +29,14 @@ sidebar:
     goodreads: 
     pdf: 
 
-    languages:
-      title: Languages
+    езици:
+      title: Езици
       info:
-        - idiom: English
-          level: C2
+        - език: Английски
+          ниво: C2
 
-        - idiom: Bulgarian
-          level: Native
+        - език: Български
+          ниво: Майчин
           
     interests:
       title: 
@@ -51,53 +51,50 @@ sidebar:
           link:
           
 career-profile:
-    title: Career Profile
+    title: За мен
     summary: |
-      I'm a hardworking and dedicated person who enjoys building upon previous knowledge and I always strive to be a
-      better version of myself. I have good basic knowledge in Python, specializing in machine learning. 
-      I also have knowledge in MLOps and Microsoft Azure, as well as PowerBI.
-      Further details for projects can be provided upon request.
+      Аз съм усърден и отдаден човек, който обича да надгражда върху предишни знания и винаги се стремя да бъда по-добра версия на себе си. Имам основни познания по Python, със специализация в машинното обучение. Също така имам знания в MLOps и Microsoft Azure, както и PowerBI. Допълнителни подробности за проекти могат да бъдат предоставени при поискване.
 
 education:
-    title: Education
+    title: Образование
     info:
       - degree: BSc in Applied Data Science and AI
         university: Breda University of Applied Sciences
-        time: 2022 - Ongoing
+        time: 2022 - настояще 
 
 projects:
-    title: Projects
+    title: Проект
     assignments:
-      - title: "PowerBI presentation on the future of ecofuels for air travel" 
+      - title: "PowerBI презентация на тема бъдещето на еко горивата в авиоиндустрията" 
         link: 
-        tagline: "The project consisted of creating a dynamic PowerBI dashboard, on a topic chosen from the SDG indicators. Using data, gathered from different scholarly sources, I was able to research and make predictions on the future developments of different fuels which can be used for passenger air travel. "
+        tagline: "Създадох на динамична PowerBI презентация, на тема по избор от SDG индикатори. На база на данни, събирани от различни научни източници, успях да прогнозирам бъдещата насока и развитие на еко горивата в авиоиндустрията. "
 
-      - title: "Machine learning model for rating prediction based on Twitter engagement for Banijay Benelux"
+      - title: "Machine learning модел за рейтингови прогнози за Banijay Benelux"
         link: 
-        tagline: "The project consisted of creating a prediction model for the show OP1 , to see whether or not twitter engagement affected the show's ratings. Using python to merge the data provided by the company, Twitter API to scrape twitter data, PowerBI to make clear visualizations of the merged data and finally MS Word, to make the final report. "
+        tagline: "Machine learning модел за предаването OP1, с който може да се види, дали дискусии в социални мрежи, като twitter, оказват влияние върху рейтинга. Използвах на Python за обединяване на данните, предоставени от компанията, Twitter API за извличане на данни от Twitter, PowerBI за създаване на ясни визуализации на обединените данни и накрая MS Word за изготвяне на крайния доклад."
 
-      - title: "Wireframe prototype with image recognition model using Keras"
-        tagline: "Created a wireframe prototype for a food recognition application, creating a proof of concept interface using an online platform and creating a functional image recognition model, using the Keras library in python. The model was a multiclass CNN with 1,6 million trainable parameters and transfer learning. "
+      - title: "Прототип на приложение с модел за разпознаване на изображения, използващ Keras."
+        tagline: "Създадох прототип за приложение за разпознаване на храна, като разработих концептуален интерфейс с помощта на онлайн платформа и създадох функционален модел за разпознаване на изображения, използвайки библиотеката Keras в Python. Моделът беше многокласов CNN, използващ трансферно обучение. "
 
-      - title: "Traffic congestion easing project for Municipality of Breda"
+      - title: "Проект за облекчаване на задръстванията в движението за Община Бреда."
         link: 
-        tagline: "For this project I was part of a group, using Scrum and an agile working environment, where I got to be scrum masterand divide team tasks accordingly. The project consisted of developing a proof of concept application for the municipality for bettering the city of Breda. The municipality provided us with multiple topics to choose from and we decided to delve into the congestion statistics. I was responsible for the data gathering, cleaning and exploratory data analysis, so that my other team members can have the necessary foundation to create a model which predicts congestion in the city center. Data was gathered from municipal websites as well as the municipality SQL server, which they provided."
+        tagline: "За този проект бях част от екип, работещ със Scrum и в гъвкава работна среда, където бях Scrum Master и разпределях задачите на екипа. Проектът се състоеше в разработването на концептуално приложение за общината с цел подобряване на град Бреда. Общината ни предостави няколко теми за избор, и ние решихме да се фокусираме върху статистиката за задръстванията. Аз бях отговорен за събирането, почистването и изследователския анализ на данните, за да предоставя на останалите членове на екипа необходимата основа за създаване на модел, който прогнозира задръстванията в центъра на града. Данните бяха събрани от общински уебсайтове, както и от SQL сървъра на общината, който ни беше предоставен."
 
-      - title: "Integrating AI as a teaching instrument for the Facility Management program in BUAS "
+      - title: "Интегриране на AI като инструмент за преподаване в програмата по Управление на съоръжения (Facility Management) в BUAS."
         link: 
-        tagline: "This was a group project where I again had the opportunity to be a scrum master and divide tasks among my team. The core of the project consisted of conducting qualitative and quantitative research from different lectors and students, using interviews and surveys. This data was later processed using R due to its statistical advantages and was made into a report using LaTeX. Each team member had to write different parts of the report as we all chose a subdiscipline in the field to research. The findings were later presented in front of an audience of lectors from the different BUAS programs as well as students and colleagues."
+        tagline: "Това беше групов проект, в който отново имах възможността да бъда Scrum Master и да разпределя задачите между екипа. Основата на проекта се състоеше в провеждане на изследвания сред различни преподаватели и студенти, използвайки интервюта и анкети. Тези данни бяха обработени с помощта на програмният език R, поради неговите статистически предимства и бяха оформени в доклад с помощта на LaTeX. Всеки член на екипа трябваше да напише различни части от доклада, тъй като всички избрахме поддисциплина в областта за изследване. Резултатите бяха представени пред аудитория от преподаватели от различни програми на BUAS, както и пред студенти и колеги."
         
-      - title: "Image Recognition and Robotics Pipeline for NPEC"
-        tagline: "This was a project for NPEC, a research facility based in Utrecht which focuses on plants. The project consisted of creating an image recognition model using binary masks made from the plant images, to track the growth of the plant, afterwards this information would pass through a robotics simulation to find the root end, where the robot would inject the plant. "
+      - title: "Процес на разпознаване на изображения и роботика за NPEC"
+        tagline: "Това беше проект за NPEC, изследователска институция в Утрехт, специализирана в растенията. Проектът се състоеше в създаването на модел за разпознаване на изображения, използващ бинарни маски от изображения на растения, за проследяване на растежа на растението. След това тази информация преминаваше през симулация на роботика, за да се открие кореновият край, където роботът щеше да инжектира растението."
         
-      - title: "NLP model for emotion detection for Banijay Benelux"
-        tagline: "This project is partly team oriented and partly individual. The project consists of gathering text and corresponding emotion data in order to train a model to recognize different emotions. Many different models were tested in order to find the best performing one, and the group came to the conclusion that a BERT model performed the best on multiclass emotion detection. A LaTeX report was written to document the results of this model."
+      - title: "NLP модел за откриване на емоции за Banijay Benelux."
+        tagline: "Този проект е частично екипен и частично индивидуален. Проектът се състои в събиране на текстови данни и съответстващи емоции, за да се обучи модел за разпознаване на различни емоции. Бяха тествани много различни модели, създавани и тренирани на на за да се намери най-добре представящият се. Групата стигна до заключението, че моделът BERT е най-добър за многокласова детекция на емоции. В доклад написан в LaTeX, се документират резултатите от този модел."
         
-      - title: "Cloud deployment of AI model using Microsoft Azure and Docker "
+      - title: "Облачна деплоймънт на AI модел, използвайки Microsoft Azure и Docker."
         link: 
-        tagline: "Project consisted of deployment of an AI emotion recognition model using Microsoft Azure. During the project my team and I worked in a scrum environment. MLOps practices were used in order to accomplish our task. The project also allowed me to learn about Docker containers and how to operate with them. The team and I also published our own python package, which can be installed on Windows and Linux"
+        tagline: "Проектът се състоеше в деплоймънт на AI модел за разпознаване на емоции, използвайки Microsoft Azure. По време на проекта работихме в среда на Scrum и използвахме практики на MLOps, за да изпълним задачата си. Проектът ми позволи също да се запозная с Docker контейнери и как да работя с тях. Екипът и аз публикувахме собствен Python пакет, който може да бъде инсталиран на Windows и Linux."
 skills:
-    title: Skills &amp; Proficiency
+    title: Умения
 
     toolset:
       - name: Python 
